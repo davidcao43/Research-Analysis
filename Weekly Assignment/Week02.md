@@ -12,3 +12,6 @@ This week, I focused on performing exploratory data analysis (EDA) on the housin
 - Conducted correlation analysis to identify relationships between housing prices and other numerical features.
 
 The EDA notebook is organized and ready for further analysis or modeling. Please let me know if you have any feedback or suggestions for additional analyses.
+To-do list 
+- Explore the dataset
+- Do more EDA
